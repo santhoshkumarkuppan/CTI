@@ -1,0 +1,9 @@
+Cyber security companies and Antivirus vendors use different names for the same threat actors and often refer to the reports and group names of each other.
+
+However, it is a difficult task to keep track of the different names and naming schemes. 
+
+\bThe below google spread sheet contains the reference that answers questions like "I read a report about the 'Tsar Team', is there another name for that group?" or "Attackers used 'China Chopper' webshell, which of the APT groups did use that shell too?" or "Did he just say 'NetTraveler'? So, does he talk about Chinese or Russian attackers?"\b
+
+https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml#
+
+Thanks to (@cyb3rops) for creating and updating this link
